@@ -1,7 +1,8 @@
 Ledge
     Personal Finance Management and Tracking App
 
-Features
+Features:
+
 The User should Sign Up and Create a Profile.
 User can keep track of and hold multiple accounts.
 Transactions can be created of Expense or Income, conducted using an Account.
